@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @H0seinhz
+- 👋 Hi, I’m @Hosein hosein zadeh
 - 👀 I’m interested in Python programming language and linux
 - 🌱 I’m currently learning linux
 - 📫 How to reach me:
